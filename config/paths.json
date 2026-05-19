@@ -1,11 +1,11 @@
 {
   "_note_clippings_dir": "要消化的原始Clippings导出文件（来源目录），处理后搬到raw_clippings",
   "_note_raw_clippings": "已图片本地化的文件存放目录（目标目录），等待Step 3 AI ingest",
-  "vault_root": "D:/知识库/玉米知识库",
-  "clippings_dir": "D:/知识库/玉米知识库/Clippings",
-  "raw_clippings": "D:/知识库/玉米知识库/raw/clippings",
-  "attachments": "D:/知识库/玉米知识库/attachments",
-  "wiki_sources": "D:/知识库/玉米知识库/wiki/sources",
-  "wiki_entities": "D:/知识库/玉米知识库/wiki/entities",
-  "summary_json": "D:/知识库/玉米知识库/clippings_summary.json"
+  "vault_root": "./yourvault",
+  "clippings_dir": "./yourvault/Clippings",
+  "raw_clippings": "./yourvault/raw/clippings",
+  "attachments": "./yourvault/attachments",
+  "wiki_sources": "./yourvault/wiki/sources",
+  "wiki_entities": "./yourvault/wiki/entities",
+  "summary_json": "./yourvault/clippings_summary.json"
 }
