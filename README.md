@@ -118,13 +118,13 @@ clippings-digest-skill/
 {
   "_note_clippings_dir": "要消化的原始Clippings导出文件（来源目录），处理后搬到raw_clippings",
   "_note_raw_clippings": "已图片本地化的文件存放目录（目标目录），等待Step 3 AI ingest",
-  "vault_root": "",
-  "clippings_dir": "/Clippings",
-  "raw_clippings": "/raw/clippings",
-  "attachments": "/attachments",
-  "wiki_sources": "/wiki/sources",
-  "wiki_entities": "/wiki/entities",
-  "summary_json": "/clippings_summary.json"
+  "vault_root": "./yourvault",
+  "clippings_dir": "./yourvault/Clippings",
+  "raw_clippings": "./yourvault/raw/clippings",
+  "attachments": "./yourvault/attachments",
+  "wiki_sources": "./yourvault/wiki/sources",
+  "wiki_entities": "./yourvault/wiki/entities",
+  "summary_json": "./yourvault/clippings_summary.json"
 }
 ```
 
